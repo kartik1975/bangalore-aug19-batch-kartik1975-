@@ -64,8 +64,8 @@ pgpaiml-pune-feb20-danyb007 created by GitHub Classroom
 * **Project Description:** *Analysed historical data about football teams which have participated in the the La Liga Cup and calculated various metrics which can be used as indicators of success for teams in the tournament.*
 * **Skills and Tools:** *Computer Vision, Transfer learning, Tensorflow, Keras, CNN*
 * **Link to Notebook:** [*Predicting Flower Species using CNN and Transfer Learning*](https://github.com/GreatLearningAIML1/pgpaiml-pune-feb20-danyb007/blob/master/pgp_aiml_pune_feb20_R8_CV_with_CNN_Project_2.ipynb)
-* **GUI Classifier Demo:-** 
-![OXFLOWER Image Classifer Demo:slot_machine:](https://github.com/GreatLearningAIML1/pgpaiml-pune-feb20-danyb007/blob/master/AIML%20OXFLOWER17%20Image%20Classifier.gif)
+* **GUI Classifier Demo:slot_machine::-** 
+![OXFLOWER Image Classifer Demo](https://github.com/GreatLearningAIML1/pgpaiml-pune-feb20-danyb007/blob/master/AIML%20OXFLOWER17%20Image%20Classifier.gif)
 	
 ### 11.Predicting plant species using CNN - March 2021
 * **Course:** *Computer Vision with CNNs*
@@ -78,8 +78,8 @@ pgpaiml-pune-feb20-danyb007 created by GitHub Classroom
 * **Project Description:** *The project involves building a NLP classifier that predicts multiple features of the author of a given text. This is a Multi label classification problem which can predict the label/s of the blog based on given input text. And build a semi-rule based interactive chat bot.*
 * **Skills and Tools:** *Multilabel classification, Natural Language Processing, Chatbot*
 * **Link to Notebook:** [*Predicting author features using a NLP classifier*](https://github.com/GreatLearningAIML1/pgpaiml-pune-feb20-danyb007/blob/master/pgp_aiml_pune_feb20_R8_Statistical_NLP_Project.ipynb)
-* **Chatbot Demo:-**
-![Chatbot Demo :speech_balloon:](https://github.com/GreatLearningAIML1/pgpaiml-pune-feb20-danyb007/blob/master/Chatbot_Animation.gif)
+* **Chatbot Demo:speech_balloon::-**
+![Chatbot Demo](https://github.com/GreatLearningAIML1/pgpaiml-pune-feb20-danyb007/blob/master/Chatbot_Animation.gif)
 
 
 
