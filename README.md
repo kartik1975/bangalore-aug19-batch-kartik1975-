@@ -11,11 +11,11 @@ pgpaiml-pune-feb20-danyb007 created by GitHub Classroom
 * **Skills and Tools:** *Statistics, Python, EDA*
 * **Link to Notebook:** [*Analysing the performance of football teams*](https://github.com/GreatLearningAIML1/pgpaiml-pune-feb20-danyb007/blob/master/pgp-aiml-pune-feb20-R1_Statistical_Learning_Project_1.ipynb)
 
-### 2.Analysing health insurace customer information - March 2020
+### 2.Analysing health insurance customer information - March 2020
 * **Course:** *Statistical Learning*
 * **Project Description:** *Analysed various customer information for making crucial business decsions using statistical learning. Answered some generic healthcare questionnaire with statistical evidence using hypothesis testing.*
 * **Skills and Tools:** *Statistics, Python, EDA, Hypothesis Testing*
-* **Link to Notebook:** [*Analysing health insurace customer information*](https://github.com/GreatLearningAIML1/pgpaiml-pune-feb20-danyb007/blob/master/pgp-aiml-pune-feb20-R2_Statistical%20Learning%20Project-2_Questions.ipynb)
+* **Link to Notebook:** [*Analysing health insurance customer information*](https://github.com/GreatLearningAIML1/pgpaiml-pune-feb20-danyb007/blob/master/pgp-aiml-pune-feb20-R2_Statistical%20Learning%20Project-2_Questions.ipynb)
 	
 ### 3.Predicting disease based on biomedical features - April 2020
 * **Course:** *Supervised Learning*
