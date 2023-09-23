@@ -1,7 +1,6 @@
 # pgpaiml-Kartik_Aug_2019
 pgpaiml-Kartik_Aug_2019 created by GitHub Classroom
 
-![My_Profile](https://github.com/GreatLearningAIML1/pgpaiml-pune-feb20-danyb007/blob/master/My_Profile.PNG)
 
 ## This repository contains all the projects undertaken during the Post Graduate Program in Artificial Intelligence and Machine Learning by Great Learning.
 
